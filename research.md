@@ -11,14 +11,16 @@ Over the past fifteen years, the paradigm of quantum entanglement has revolution
 
 [ERQUAF](http://cordis.europa.eu/project/rcn/205993_en.html) is the acronym of the ERC project that sets as its goal to lift this “entanglement methodology” into the realm of quantum field theory. Indeed, in high energy physics, the widespread interest in entanglement has only been triggered recently, due to the intriguing connections between entanglement and the structure of spacetime that arise in black hole physics and quantum gravity. Furthermore, direct continuum limits of various tensor network ansätze have been formulated over the past few years. However, the application thereof is largely unexplored territory and holds promising potential.
 
-Establishing the synergy between field theory and entanglement theory is the central theme of ERQUAF, and a number of goals are set out:
+Establishing the synergy between field theory and entanglement theory is the central theme of ERQUAF, and a number of goals are set out in the following graph.
 
 ![Goals](/img/goals.png)
 
 ## Tangential research projects
 
+Aside from my commitment to ERQUAF, I am also involved in a number of tangential projects.
+
 *   Tensor networks for topological order, classification of phases, phase transitions, fermions, ...
 
 *   Tensor network algorithms for quenches, thermalisation, ...
 
-*   For software packages and experiments to implement tensor network algorithms in Julia, look [here](http://github.com/Jutho).
+*   Software packages and experiments to implement tensor network algorithms in Julia; look [here](http://github.com/Jutho).
