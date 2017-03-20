@@ -2,6 +2,7 @@
 layout: page
 title: Research
 subtitle: entanglement and renormalization for quantum fields
+bigimg: /img/research.jpg
 ---
 
 ## ERQUAF
